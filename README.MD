@@ -15,7 +15,7 @@ This project demonstrates how to build a mobile application for object detection
 We can run the object detection application using the following command:
 
 `
-$ python search_v3.1.py
+$ python search_v2.py
 `
 
 ## Conclusion
